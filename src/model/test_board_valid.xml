@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<board>
+    <size>15</size>
+    <premiumSquares>
+        <square row="0" col="7" type="TW"/>
+    </premiumSquares>
+</board>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<board>
+    <size>15</size>
+    <premiumSquares>
+        <!-- Triple Word Score -->
+        <square row="0" col="0" type="TW"/>
+        <square row="0" col="7" type="TW"/>
+        <square row="0" col="14" type="TW"/>
+        <square row="7" col="0" type="TW"/>
+        <square row="7" col="14" type="TW"/>
+        <square row="14" col="0" type="TW"/>
+        <square row="14" col="7" type="TW"/>
+        <square row="14" col="14" type="TW"/>
+
+        <!-- Double Word Score -->
+        <square row="1" col="1" type="DW"/>
+        <square row="2" col="2" type="DW"/>
+        <square row="3" col="3" type="DW"/>
+        <square row="4" col="4" type="DW"/>
+        <square row="10" col="10" type="DW"/>
+        <square row="11" col="11" type="DW"/>
+        <square row="12" col="12" type="DW"/>
+        <square row="13" col="13" type="DW"/>
+        <square row="1" col="13" type="DW"/>
+        <square row="2" col="12" type="DW"/>
+        <square row="3" col="11" type="DW"/>
+        <square row="4" col="10" type="DW"/>
+        <square row="10" col="4" type="DW"/>
+        <square row="11" col="3" type="DW"/>
+        <square row="12" col="2" type="DW"/>
+        <square row="13" col="1" type="DW"/>
+
+        <!-- Triple Letter Score -->
+        <square row="1" col="5" type="TL"/>
+        <square row="1" col="9" type="TL"/>
+        <square row="5" col="1" type="TL"/>
+        <square row="5" col="5" type="TL"/>
+        <square row="5" col="9" type="TL"/>
+        <square row="5" col="13" type="TL"/>
+        <square row="9" col="1" type="TL"/>
+        <square row="9" col="5" type="TL"/>
+        <square row="9" col="9" type="TL"/>
+        <square row="9" col="13" type="TL"/>
+        <square row="13" col="5" type="TL"/>
+        <square row="13" col="9" type="TL"/>
+
+        <!-- Double Letter Score -->
+        <square row="0" col="3" type="DL"/>
+        <square row="0" col="11" type="DL"/>
+        <square row="2" col="6" type="DL"/>
+        <square row="2" col="8" type="DL"/>
+        <square row="3" col="0" type="DL"/>
+        <square row="3" col="14" type="DL"/>
+        <square row="6" col="2" type="DL"/>
+        <square row="6" col="6" type="DL"/>
+        <square row="6" col="8" type="DL"/>
+        <square row="6" col="12" type="DL"/>
+        <square row="8" col="2" type="DL"/>
+        <square row="8" col="6" type="DL"/>
+        <square row="8" col="8" type="DL"/>
+        <square row="8" col="12" type="DL"/>
+        <square row="11" col="0" type="DL"/>
+        <square row="11" col="3" type="DL"/>
+        <square row="11" col="11" type="DL"/>
+        <square row="11" col="14" type="DL"/>
+        <square row="12" col="6" type="DL"/>
+        <square row="12" col="8" type="DL"/>
+        <square row="14" col="3" type="DL"/>
+        <square row="14" col="11" type="DL"/>
+    </premiumSquares>
+</board>
